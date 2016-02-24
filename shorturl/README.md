@@ -1,8 +1,7 @@
 # Shorturl
+URL shortener can help understand how to develop high performance API service with Beego.
 
-[中文文档](./README_ZH.md)
-
-This sample is a API application based on beego. It has two API func:
+It has two API func:
 
 - /v1/shorten
 - /v1/expand
